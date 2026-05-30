@@ -39,8 +39,7 @@ Profesional con un perfil híbrido especializado en la convergencia entre la ing
 ## Métricas de Actividad
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaelchet8-ai&theme=corporate" alt="Métricas de Actividad" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=michaelchet8-ai&theme=corporate" alt="Lenguajes más usados" height="180" />
+  <img src="https://metrics.lecoq.io/michaelchet8-ai?template=classic&base=header%2C+activity%2C+community%2C+repositories&config.timezone=America%2FCaracas" alt="Métricas Profesionales" width="100%" />
 </p>
 
 ---
