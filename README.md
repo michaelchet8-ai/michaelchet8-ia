@@ -38,10 +38,9 @@ Profesional con un perfil híbrido especializado en la convergencia entre la ing
 
 ## Métricas de Actividad
 
-
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=michaelchet8-ai&show_icons=true&theme=corporate&count_private=true" alt="Estadísticas Profesionales" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelchet8-ai&layout=compact&theme=corporate" alt="Lenguajes de Programación" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaelchet8-ai&theme=corporate" alt="Métricas de Actividad" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=michaelchet8-ai&theme=corporate" alt="Lenguajes más usados" height="180" />
 </p>
 
 ---
