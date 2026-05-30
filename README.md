@@ -1,4 +1,4 @@
-# ¡Hola! Soy Maikol Capote 👋
+# ¡Hola! Soy Maikol C-R 👋
 
 ### Técnico Medio en Electrónica & Desarrollador Full-Stack
 
